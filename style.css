@@ -100,3 +100,7 @@ button:hover {
 .cancel-link:hover {
     color: hsl(223, 47%, 23%);
 }
+
+.attribution {
+    text-align: center;
+}
